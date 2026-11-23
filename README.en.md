@@ -39,4 +39,4 @@ Requires Python 3.9+. Free API keys: see [`guias/chaves.md`](skills/radar-social
 
 ## License
 
-MIT. Made by [Guga Venancio](https://github.com/venancioguga).
+MIT. Made by [Guga Venancio](https://github.com/venancioguga). A [Guve](https://guve.io) project.

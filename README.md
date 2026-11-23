@@ -81,4 +81,4 @@ Ideias, correções e novas fontes são bem-vindas: abra uma issue ou um pull re
 
 ## Licença
 
-MIT. Feito por [Guga Venancio](https://github.com/venancioguga).
+MIT. Feito por [Guga Venancio](https://github.com/venancioguga). Um projeto [Guve](https://guve.io).
