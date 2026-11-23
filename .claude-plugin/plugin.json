@@ -1,0 +1,10 @@
+{
+  "name": "radar-social",
+  "version": "0.1.0",
+  "description": "Pesquisa de redes sociais com dados reais, em português, usando só fontes oficiais e gratuitas: posts fora da curva, comentários, concorrentes, horários e antes x depois.",
+  "author": { "name": "Guga Venancio", "url": "https://github.com/venancioguga" },
+  "homepage": "https://github.com/venancioguga/radar-social",
+  "repository": "https://github.com/venancioguga/radar-social",
+  "license": "MIT",
+  "keywords": ["redes sociais", "social media", "instagram", "youtube", "comentarios", "pesquisa", "marketing", "brasil", "pt-br"]
+}

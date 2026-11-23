@@ -1,0 +1,16 @@
+{
+  "name": "radar-social",
+  "description": "Radar Social: pesquisa de redes sociais com dados reais, em português, de graça.",
+  "owner": {
+    "name": "Guga Venancio",
+    "url": "https://github.com/venancioguga"
+  },
+  "plugins": [
+    {
+      "name": "radar-social",
+      "source": "./",
+      "description": "Pesquisa de redes sociais com dados reais, em português, de graça.",
+      "version": "0.1.0"
+    }
+  ]
+}
